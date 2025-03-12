@@ -7,7 +7,7 @@ I'm a QA Automation Engineer
 <details>
   <summary>More about me</summary>
 
-- **Name**: Soorya
+- **Name**: Soorya Asokan
 - **From**: India
 - **Based on**: UK
 - **QA Automation Engineer** | **FreelanceTester**
