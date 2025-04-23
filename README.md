@@ -11,7 +11,7 @@ I'm a QA Automation Engineer
 - **From**: India
 - **Based on**: UK
 - **QA Automation Engineer** | **FreelanceTester**
-- I have experience in .
+- Tools-Cypress,Appium ,Testim
 - Continuously improving my knowledge of **Testing skills** and **Automation skills**.
 - I’m currently learning and exploring **AI driven testing**, **Data Science**, and **ISTQB certifications**.
 
