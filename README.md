@@ -58,8 +58,7 @@ I'm a QA Automation Engineer
 
 | **Project**      | **Description**                                                                                  |
 |-------------------|--------------------------------------------------------------------------------------------------|
-| **Project1**    | cvv |
-| ****    | Short Description |
-| **[Project 3]**    | Short Description | 
+| **cypress_ProjectPF**    | Cypress-based UI tests for [Demo Site URL]. Includes login, product selection, add-to-cart flow, with GitHub Actions badge. |
+| **playwright_project**   | Playwright framework in TypeScript. Features POM, screenshots on failure, and CI integration. | 
 
 ---
