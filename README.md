@@ -58,7 +58,7 @@ I'm a QA Automation Engineer
 
 | **Project**      | **Description**                                                                                  |
 |-------------------|--------------------------------------------------------------------------------------------------|
-| **cypress_ProjectPF**    | Cypress-based UI tests for [https://www.saucedemo.com/]. Includes login, product selection, add-to-cart flow, with GitHub Actions badge. |
-| **playwright_project**   | Playwright framework in TypeScript. Features POM, screenshots on failure, and CI integration. | 
+| **cypress_ProjectPF**    | Cypress-based UI tests for [https://www.saucedemo.com/]. Includes login, product selection, add-to-cart flow. |
+| **playwright_project**   | Playwright framework in TypeScript. Features POM. | 
 
 ---
