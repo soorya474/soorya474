@@ -6,7 +6,22 @@ I'm a QA Automation Engineer
 
 <details>
   <summary>More about me</summary>
+QA Automation Engineer | Freelance Tester
+📍 Based in the UK | Originally from India
 
+🚀 Passionate about delivering high-quality software through smart, scalable automation. I specialise in end-to-end testing using modern frameworks like Cypress, Playwright, Appium, and Testim.
+
+🔍 With a strong foundation in both manual and automated testing, I focus on writing maintainable, efficient, and robust test scripts that help build confidence in every release.
+
+🧠 Always learning, always evolving — I'm currently deepening my expertise in:
+
+AI-driven Testing
+
+Data Science fundamentals for QA
+
+Preparing for ISTQB Certifications
+
+🌱 My goal is to bridge the gap between quality assurance and intelligent automation by continuously upskilling and staying ahead of trends in the testing world.
 - **Name**: Soorya Asokan
 - **From**: India
 - **Based on**: UK
