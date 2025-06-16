@@ -67,8 +67,7 @@ Automated UI testing for the demo e-commerce platform saucedemo.com.
 Emphasised reusable test structure, fast execution, and clear assertions with screenshot capture on failure.
 | **Project**      | **Description**                                                                                  |
 |-------------------|--------------------------------------------------------------------------------------------------|
-| **cypress_ProjectPF**    | Cypress-based UI tests for  an ecommerce application.Tech Stack: Cypress, JavaScript, Mocha, Chai. Includes login, product selection, add-to-cart flow. <a href="https://www.github.com/soorya474/Cypress_ProjectPF" target="_blank">GitHub</a> |
-
-| **playwright_project**   | Playwright framework in TypeScript. Features POM. | 
+| **cypress_ProjectPF**    | Cypress-based UI tests for  an ecommerce application.Tech Stack: Cypress,TypescriptScript, Mocha, Chai. Includes login, product selection, add-to-cart flow.Contains screenshots,mochawesome reports <a href="https://www.github.com/soorya474/Cypress_ProjectPF" target="_blank">GitHub</a> |
+| **playwright_project**   | Playwright framework in TypeScript. Features POM.Screenshots and failures with the HTML report | 
 
 ---
