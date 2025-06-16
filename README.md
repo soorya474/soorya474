@@ -1,5 +1,6 @@
 ## Hi there 👋
 <a href="www.linkedin.com/in/soorya-asokan-03b4232a7"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+Email:soorya474@gmail.com 
 
 QA Automation Engineer | Freelance Tester
 📍 Based in the UK | Originally from India
