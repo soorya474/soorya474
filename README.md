@@ -1,8 +1,6 @@
 ## Hi there 👋
 <a href="www.linkedin.com/in/soorya-asokan-03b4232a7"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-<details>
-  <summary>More about me</summary>
 QA Automation Engineer | Freelance Tester
 📍 Based in the UK | Originally from India
 
@@ -56,18 +54,9 @@ Data Science & Machine learning.
 
 <h2 id="Projects" align=''> Projects </h2>
 
-🚀 Cypress_ProjectPF
-GitHub: github.com/yourusername/Cypress_ProjectPF
-Tech Stack: Cypress, JavaScript, Mocha, Chai
-
-Description:
-Automated UI testing for the demo e-commerce platform saucedemo.com.
-
-
-Emphasised reusable test structure, fast execution, and clear assertions with screenshot capture on failure.
 | **Project**      | **Description**                                                                                  |
 |-------------------|--------------------------------------------------------------------------------------------------|
-| **cypress_ProjectPF**    | Cypress-based UI tests for  an ecommerce application.It also contains basic API methods implementation.Tech Stack: Cypress,TypescriptScript, Mocha, Chai. Includes login, product selection, add-to-cart flow.Contains screenshots,mochawesome reports <a href="https://www.github.com/soorya474/Cypress_ProjectPF" target="_blank">GitHub</a> |
-| **playwright_project**   | Playwright framework in TypeScript. Features POM.Screenshots and failures with the HTML report <a href="https://www.github.com/soorya474/playwright_project" target="_blank">GitHub</a> | | 
+| **cypress_ProjectPF**    | Cypress-based UI tests for  an ecommerce application.It also contains basic API methods implementation.Tech Stack: Cypress,TypescriptScript, Mocha, Chai. Includes login, product selection, add-to-cart flow.Contains screenshots,mochawesome reports. <a href="https://www.github.com/soorya474/Cypress_ProjectPF" target="_blank">GitHub</a> |
+| **playwright_project**   | Playwright framework in TypeScript. Features POM.Screenshots and failures with the HTML report. <a href="https://www.github.com/soorya474/playwright_project" target="_blank">GitHub</a> | | 
 
 ---
