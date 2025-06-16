@@ -1,7 +1,4 @@
 ## Hi there 👋
-
-I'm a QA Automation Engineer
-
 <a href="www.linkedin.com/in/soorya-asokan-03b4232a7"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 <details>
@@ -13,22 +10,13 @@ QA Automation Engineer | Freelance Tester
 
 🔍 With a strong foundation in both manual and automated testing, I focus on writing maintainable, efficient, and robust test scripts that help build confidence in every release.
 
-🧠 Always learning, always evolving — I'm currently deepening my expertise in:
+🧠 Always learning, always evolving.Lokking out for QA opportunities and I am currently deepening my expertise in:
 
 AI-driven Testing
 
-Data Science fundamentals for QA
-
-Preparing for ISTQB Certifications
+Data Science & Machine learning.
 
 🌱 My goal is to bridge the gap between quality assurance and intelligent automation by continuously upskilling and staying ahead of trends in the testing world.
-- **Name**: Soorya Asokan
-- **From**: India
-- **Based on**: UK
-- **QA Automation Engineer** | **FreelanceTester**
-- Tools-Cypress,Playwright,Appium ,Testim
-- Continuously improving my knowledge of **Testing skills** and **Automation skills**.
-- I’m currently learning and exploring **AI driven testing**, **Data Science**, and **ISTQB certifications**.
 
 </details>
 <br>
