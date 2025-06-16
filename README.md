@@ -62,16 +62,14 @@ Tech Stack: Cypress, JavaScript, Mocha, Chai
 
 Description:
 Automated UI testing for the demo e-commerce platform saucedemo.com.
-Key scenarios include:
-1.User login with valid/invalid credentials
-2.Product selection and filtering
-3.Add-to-cart and cart validation
-4.Checkout process verification
+
 
 Emphasised reusable test structure, fast execution, and clear assertions with screenshot capture on failure.
 | **Project**      | **Description**                                                                                  |
 |-------------------|--------------------------------------------------------------------------------------------------|
-| **cypress_ProjectPF**    | Cypress-based UI tests for [https://www.saucedemo.com/]. Includes login, product selection, add-to-cart flow. |
+| **cypress_ProjectPF**    | Cypress-based UI tests for [https://www.saucedemo.com/].Tech Stack: Cypress, JavaScript, Mocha, Chai. Includes login, product selection, add-to-cart flow. |
+<a href="https://www.github.com/soorya474/Cypress_ProjectPF" target="_blank">Cypress_ProjectPF on GitHub</a>
+
 | **playwright_project**   | Playwright framework in TypeScript. Features POM. | 
 
 ---
