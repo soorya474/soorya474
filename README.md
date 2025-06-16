@@ -10,10 +10,8 @@ QA Automation Engineer | Freelance Tester
 
 🔍 With a strong foundation in both manual and automated testing, I focus on writing maintainable, efficient, and robust test scripts that help build confidence in every release.
 
-🧠 Always learning, always evolving.Lokking out for QA opportunities and I am currently deepening my expertise in:
-
+🧠 Always learning, always evolving.Looking out for QA opportunities and I am currently deepening my expertise in:
 AI-driven Testing
-
 Data Science & Machine learning.
 
 🌱 My goal is to bridge the gap between quality assurance and intelligent automation by continuously upskilling and staying ahead of trends in the testing world.
@@ -58,7 +56,19 @@ Data Science & Machine learning.
 
 <h2 id="Projects" align=''> Projects </h2>
 
+🚀 Cypress_ProjectPF
+GitHub: github.com/yourusername/Cypress_ProjectPF
+Tech Stack: Cypress, JavaScript, Mocha, Chai
 
+Description:
+Automated UI testing for the demo e-commerce platform saucedemo.com.
+Key scenarios include:
+1.User login with valid/invalid credentials
+2.Product selection and filtering
+3.Add-to-cart and cart validation
+4.Checkout process verification
+
+Emphasised reusable test structure, fast execution, and clear assertions with screenshot capture on failure.
 | **Project**      | **Description**                                                                                  |
 |-------------------|--------------------------------------------------------------------------------------------------|
 | **cypress_ProjectPF**    | Cypress-based UI tests for [https://www.saucedemo.com/]. Includes login, product selection, add-to-cart flow. |
