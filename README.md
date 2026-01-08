@@ -1,30 +1,36 @@
 # 👋 Hi, I’m Soorya Asokan
 
-### QA Automation Engineer | UI, API & E2E Testing | Playwright · Cypress · Java · TypeScript
+### QA Automation Engineer | Playwright · Cypress · API Testing . Selenium | JavaScript · TypeScript · Java
 
-I’m a QA Automation Engineer with hands-on experience in **building test automation frameworks from scratch** and delivering reliable quality across **web and API applications**.  
-I enjoy designing clean, scalable automation frameworks and integrating them into CI/CD pipelines.
+QA Automation Engineer with hands-on experience in **designing and building automation frameworks from scratch** for modern web and API-based applications.  
+Experienced in **end-to-end testing, API validation, CI/CD integration**, and working in **Agile delivery teams**.
+
+I focus on writing **maintainable, reliable automation** that provides fast feedback and supports confident releases.
 
 ---
 
-## 🔧 Tech Stack
-- **Automation:** Playwright, Cypress, Selenium
-- **Languages:** JavaScript, TypeScript, Java
+## 🧪 Core Skills 
+- **UI Automation:** Playwright, Cypress
 - **API Testing:** Playwright API, Rest Assured, Postman
+- **Languages:** JavaScript, TypeScript, Java
+- **Framework Design:** POM, reusable utilities, data-driven testing
 - **CI/CD:** GitHub Actions, Azure DevOps
-- **Practices:** POM, data-driven testing, E2E, smoke & regression suites
+- **Testing Types:** Smoke, Regression, E2E, API, Exploratory
+- **Ways of Working:** Agile / Scrum, shift-left testing
 
 ---
 
-## 🚀 Featured Projects
-- **Playwright UI & API Framework** – End-to-end testing with POM, reports & CI
-- **Cypress UI + API Framework** – UI flows, API validations & Azure pipeline
-- **Rest Assured API Framework** – Java-based API automation with reusable specs
+## 🚀 Automation Portfolio 
+Each repository below demonstrates **real-world QA practices** used in UK product teams:
+- Framework architecture & clean code
+- CI execution
+- Reporting & debugging support
+- Scalability and maintainability
 
-⬇️ Scroll down to explore pinned repositories
+⬇️ Explore pinned repositories
 
 ---
 
-## 📫 Connect with Me
-- LinkedIn: https://www.linkedin.com/in/sooryaasokan474
+## 📫 Contact
+- LinkedIn: https://www.linkedin.com/in/sooryaasokan474/
 - Email: soorya474 [at] gmail [dot] com
