@@ -21,13 +21,13 @@ I focus on writing **maintainable, reliable automation** that provides fast feed
 ---
 
 ## 🚀 Automation Portfolio 
-Each repository below demonstrates **real-world QA practices** used in UK product teams:
+Each repository below demonstrates **real-world QA practices** :
 - Framework architecture & clean code
 - CI execution
 - Reporting & debugging support
 - Scalability and maintainability
 
-⬇️ Explore pinned repositories
+⬇️ Pinned repositories
 
 ---
 
