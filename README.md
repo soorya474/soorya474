@@ -11,6 +11,7 @@ I focus on writing **maintainable, reliable automation** that provides fast feed
 
 ## 🧪 Core Skills 
 - **UI Automation:** Playwright, Cypress
+- **AI Framework &Tools:** Tricentis Testim
 - **API Testing:** Playwright API, Rest Assured, Postman
 - **Languages:** JavaScript, TypeScript, Java
 - **Framework Design:** POM, reusable utilities, data-driven testing
